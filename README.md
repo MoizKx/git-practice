@@ -7,3 +7,4 @@ When resolving merge conflicts, make sure to keep all changes so you don't delet
 
 ## Index of `userfiles` directory
 
+[daraakitoyemru](userfiles/daraakitoyemru.md)
