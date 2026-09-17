@@ -5,6 +5,8 @@ Add a link to the file you added in `userfiles` to the list below.
 
 When resolving merge conflicts, make sure to keep all changes so you don't delete another student's entry.
 
+Let there be conflicts!
+
 ## Index of `userfiles` directory
 
 [daraakitoyemru](userfiles/daraakitoyemru.md)
