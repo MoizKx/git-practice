@@ -9,4 +9,5 @@ Let there be conflicts!
 
 ## Index of `userfiles` directory
 
-[cfcurtis](userfiles/cfcurtis.md)
+
+[Username](./username.md)
